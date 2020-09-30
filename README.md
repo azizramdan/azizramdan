@@ -1,6 +1,6 @@
 <h2 align="center">👋 Hello Mamang! I'm Aziz Ramdan Kurniawan.</h2>  
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=azizramdan">
+  <img src="https://komarev.com/ghpvc/?username=azizramdan"> <br><br>
 </p>
     
 ⏳ **My github stats**  
