@@ -1,3 +1,5 @@
+<h2 align="center">👋 Hello Mamang! I'm Aziz Ramdan Kurniawan.</h2>
+
 **My github stats**  
 ![github stats](https://github-readme-stats.vercel.app/api?username=azizramdan&show_icons=true&count_private=true&title_color=000&hide_border=true&hide_title=true)  
 
