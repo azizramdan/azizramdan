@@ -9,7 +9,7 @@
 📈 **Languages I use the most**  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azizramdan&layout=compact&langs_count=6&hide=tsql&hide_border=true&hide_title=true&exclude_repo=Futsal-Go,Futsal-Go-Admin,Sistem-Informasi-Sensus-Harian-Rawat-Inap)  
 
-📊 [**My weekly development breakdown**](https://wakatime.com/@azizramdan)
+📊 ![**My weekly development breakdown**](https://wakatime.com/@azizramdan)
 <!--START_SECTION:waka-->
 ```text
 Week: 22 September, 2020 - 29 September, 2020
