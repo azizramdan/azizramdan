@@ -1,7 +1,15 @@
-![profile views](https://komarev.com/ghpvc/?username=azizramdan)  
-![github stats](https://github-readme-stats.vercel.app/api?username=azizramdan&show_icons=true&count_private=true&title_color=000)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azizramdan&layout=compact&langs_count=6&hide=tsql&&title_color=000&exclude_repo=Futsal-Go,Futsal-Go-Admin,Sistem-Informasi-Sensus-Harian-Rawat-Inap)  
-![
+<h2 align="center">👋 Hello Mamang! I'm Aziz Ramdan Kurniawan.</h2>
+<p align="center">
+  ![profile views](https://komarev.com/ghpvc/?username=azizramdan)
+</p>
+
+** My github stats **
+![github stats](https://github-readme-stats.vercel.app/api?username=azizramdan&show_icons=true&count_private=true&title_color=000&hide_border=true&hide_title=true)  
+---
+** Languages I use the most **
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azizramdan&layout=compact&langs_count=6&hide=tsql&hide_border=true&hide_title=true&exclude_repo=Futsal-Go,Futsal-Go-Admin,Sistem-Informasi-Sensus-Harian-Rawat-Inap)  
+---
+** My weekly development breakdown **
 <!--START_SECTION:waka-->
 ```text
 Week: 22 September, 2020 - 29 September, 2020
@@ -11,5 +19,6 @@ Blade Template   37 mins         ███░░░░░░░░░░░░�
 Other            6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
 ```
 <!--END_SECTION:waka-->
-](https://wakatime.com/@azizramdan)
+---
+** Let's jump! **
 ![dino](https://raw.githubusercontent.com/azizramdan/azizramdan/master/dino.gif)  
