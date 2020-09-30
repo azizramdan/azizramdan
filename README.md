@@ -4,6 +4,10 @@
 ![dino](https://raw.githubusercontent.com/azizramdan/azizramdan/master/dino.gif)  
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 22 September, 2020 - 29 September, 2020
+
+PHP              4 hrs 43 mins   █████████████████████▓░░░   86.53 % 
+Blade Template   37 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
+Other            6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
 ```
 <!--END_SECTION:waka-->
