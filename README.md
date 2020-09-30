@@ -1,7 +1,4 @@
 <h2 align="center">👋 Hello Mamang! I'm Aziz Ramdan Kurniawan.</h2>
-<p align="center">
-  [profile views](https://komarev.com/ghpvc/?username=azizramdan)
-</p>
 
 **My github stats**
 ![github stats](https://github-readme-stats.vercel.app/api?username=azizramdan&show_icons=true&count_private=true&title_color=000&hide_border=true&hide_title=true)  
