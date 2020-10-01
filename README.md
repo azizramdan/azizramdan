@@ -19,7 +19,7 @@ Blade Template   37 mins         ███░░░░░░░░░░░░�
 Other            6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
 ```
 <!--END_SECTION:waka-->
-[See more at Wakatime](https://wakatime.com/@azizramdan)
+[👉 See more at Wakatime](https://wakatime.com/@azizramdan)
 ***
 🔝 **Let's jump!**  
 ![dino](https://raw.githubusercontent.com/azizramdan/azizramdan/master/dino.gif)  
