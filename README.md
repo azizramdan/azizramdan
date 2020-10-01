@@ -3,7 +3,7 @@
   <img src="https://komarev.com/ghpvc/?username=azizramdan"> <br><br>
 </p>
     
-⏳ **My github stats**  
+⏳ **My stats**  
 ![github stats](https://github-readme-stats.vercel.app/api?username=azizramdan&show_icons=true&count_private=true&title_color=000&hide_border=true&hide_title=true)  
 
 📈 **Languages I use the most**  
