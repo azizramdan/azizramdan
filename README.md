@@ -10,12 +10,10 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azizramdan&layout=compact&langs_count=6&hide=tsql&hide_border=true&hide_title=true&exclude_repo=Futsal-Go,Futsal-Go-Admin,Sistem-Informasi-Sensus-Harian-Rawat-Inap)  
 
 📊 **My weekly development breakdown**
-<a href="https://wakatime.com/@azizramdan">
-  <pre>
+<a href="https://wakatime.com/@azizramdan"><pre>
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-</pre>
-</a>
+</pre></a>
 👉 [See more at Wakatime](https://wakatime.com/@azizramdan)
 ***
 🔝 **Let's jump!**  
