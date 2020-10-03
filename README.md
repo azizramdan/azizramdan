@@ -10,17 +10,12 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azizramdan&layout=compact&langs_count=6&hide=tsql&hide_border=true&hide_title=true&exclude_repo=Futsal-Go,Futsal-Go-Admin,Sistem-Informasi-Sensus-Harian-Rawat-Inap)  
 
 📊 **My weekly development breakdown**
+<a href="https://wakatime.com/@azizramdan">
+  <pre>
 <!--START_SECTION:waka-->
-```text
-Week: 24 September, 2020 - 01 October, 2020
-
-PHP              5 hrs 53 mins   ████████████████████▒░░░░   81.38 % 
-Blade Template   46 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.67 % 
-JavaScript       22 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.07 % 
-Other            10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
-INI              1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
-```
 <!--END_SECTION:waka-->
+</pre>
+</a>
 👉 [See more at Wakatime](https://wakatime.com/@azizramdan)
 ***
 🔝 **Let's jump!**  
