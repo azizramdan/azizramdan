@@ -12,7 +12,7 @@
 📊 **My weekly development breakdown**
 <!--START_SECTION:waka-->
 ```text
-Week: 03 October, 2020 - 10 October, 2020
+Week: 04 October, 2020 - 11 October, 2020
 
 PHP              15 hrs 43 mins  ████████▓░░░░░░░░░░░░░░░░   34.71 % 
 Blade Template   11 hrs 5 mins   ██████░░░░░░░░░░░░░░░░░░░   24.49 % 
