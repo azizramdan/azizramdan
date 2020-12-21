@@ -12,7 +12,7 @@
 📊 **My weekly development breakdown**
 <!--START_SECTION:waka-->
 ```text
-Week: 12 December, 2020 - 19 December, 2020
+Week: 13 December, 2020 - 20 December, 2020
 
 Vue.js           23 hrs 38 mins  █████████████▒░░░░░░░░░░░   53.54 % 
 PHP              16 hrs 55 mins  █████████▓░░░░░░░░░░░░░░░   38.34 % 
