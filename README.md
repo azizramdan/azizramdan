@@ -12,7 +12,7 @@
 📊 **My weekly development breakdown**
 <!--START_SECTION:waka-->
 ```text
-Week: 27 August, 2021 - 02 September, 2021
+Week: 28 August, 2021 - 03 September, 2021
 
 PHP              14 hrs 3 mins   ███████████████▒░░░░░░░░░   61.37 % 
 Vue.js           7 hrs 57 mins   ████████▓░░░░░░░░░░░░░░░░   34.74 % 
