@@ -12,7 +12,7 @@
 📊 **My weekly development breakdown**
 <!--START_SECTION:waka-->
 ```text
-Week: 19 December, 2021 - 25 December, 2021
+Week: 20 December, 2021 - 26 December, 2021
 
 PHP          14 hrs 2 mins   ████████████████░░░░░░░░░   63.55 % 
 Vue.js       5 hrs 50 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.45 % 
