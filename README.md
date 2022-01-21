@@ -12,7 +12,7 @@
 📊 **My weekly development breakdown**
 <!--START_SECTION:waka-->
 ```text
-Week: 13 January, 2022 - 19 January, 2022
+Week: 14 January, 2022 - 20 January, 2022
 
 PHP              12 hrs 52 mins  ██████████████▓░░░░░░░░░░   58.33 % 
 Vue.js           4 hrs 42 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.36 % 
