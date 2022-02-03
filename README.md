@@ -12,7 +12,7 @@
 📊 **My weekly development breakdown**
 <!--START_SECTION:waka-->
 ```text
-Week: 26 January, 2022 - 01 February, 2022
+Week: 27 January, 2022 - 02 February, 2022
 
 PHP              9 hrs 48 mins   █████████████████░░░░░░░░   68.40 % 
 Python           1 hr 22 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.56 % 
