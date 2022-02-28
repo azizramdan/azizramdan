@@ -1,6 +1,7 @@
 <h2 align="center">👋 Hello Mamang! I'm Aziz Ramdan Kurniawan.</h2>  
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=azizramdan"> <br><br>
+  [![wakatime](https://wakatime.com/badge/user/90056fa0-4c31-4eca-954e-2a3ac05896f9.svg)](https://wakatime.com/@90056fa0-4c31-4eca-954e-2a3ac05896f9)
 </p>
     
 ⏳ **My stats**  
