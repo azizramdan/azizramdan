@@ -29,3 +29,5 @@ Other            41 mins         ▒░░░░░░░░░░░░░░�
 ***
 🔝 **Let's jump!**  
 ![dino](https://raw.githubusercontent.com/azizramdan/azizramdan/master/dino.gif)  
+
+![](https://hit.yhype.me/github/profile?user_id=27954794)
