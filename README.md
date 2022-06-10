@@ -5,10 +5,10 @@
 </p>
     
 ⏳ **My stats**  
-![github stats](https://github-readme-stats.vercel.app/api?username=azizramdan&show_icons=true&count_private=true&title_color=000&hide_border=true&hide_title=true)  
+![](https://raw.githubusercontent.com/azizramdan/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 
 📈 **Languages I use the most**  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azizramdan&layout=compact&langs_count=6&hide=tsql&hide_border=true&hide_title=true&exclude_repo=Futsal-Go,Futsal-Go-Admin,Sistem-Informasi-Sensus-Harian-Rawat-Inap)  
+![](https://raw.githubusercontent.com/azizramdan/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
 📊 **My weekly development breakdown**
 <!--START_SECTION:waka-->
