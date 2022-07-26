@@ -14,10 +14,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 17 July 2022 - To: 24 July 2022
+From: 18 July 2022 - To: 25 July 2022
 
-PHP              24 hrs 18 mins  ██████████████████▓░░░░░░   75.11 %
-Other            4 hrs 23 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.58 %
+PHP              25 hrs 17 mins  ██████████████████▓░░░░░░   74.30 %
+Other            4 hrs 57 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.57 %
 ```
 
 <!--END_SECTION:waka-->
