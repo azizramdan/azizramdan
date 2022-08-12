@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
   schedule:
     # Runs at 4am WIB
-    - cron: "0 21 * * *"
+    - cron: "20 21 * * *"
 
 jobs:
   update-readme:
