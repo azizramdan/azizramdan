@@ -14,7 +14,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 30 September 2022 - To: 07 October 2022
+From: 01 October 2022 - To: 08 October 2022
 
 PHP              21 hrs 5 mins   ██████████████░░░░░░░░░░░   55.75 %
 Vue.js           11 hrs 14 mins  ███████▒░░░░░░░░░░░░░░░░░   29.72 %
