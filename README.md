@@ -14,11 +14,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 11 November 2022 - To: 18 November 2022
+From: 13 November 2022 - To: 20 November 2022
 
-PHP              16 hrs 57 mins  ███████████████▓░░░░░░░░░   63.01 %
-Vue.js           5 hrs 34 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.74 %
-Other            2 hrs 22 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.81 %
+PHP              17 hrs 38 mins  ████████████▒░░░░░░░░░░░░   49.16 %
+Other            9 hrs 14 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.76 %
 ```
 
 <!--END_SECTION:waka-->
