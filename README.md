@@ -14,12 +14,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 15 December 2022 - To: 22 December 2022
+From: 16 December 2022 - To: 23 December 2022
 
-TypeScript   27 hrs 44 mins  ██████████▓░░░░░░░░░░░░░░   42.37 %
-Vue.js       18 hrs 29 mins  ███████░░░░░░░░░░░░░░░░░░   28.24 %
-JavaScript   10 hrs 20 mins  ████░░░░░░░░░░░░░░░░░░░░░   15.80 %
-Other        5 hrs 42 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.71 %
+TypeScript   22 hrs 22 mins  █████████▒░░░░░░░░░░░░░░░   37.05 %
+Vue.js       18 hrs 51 mins  ███████▓░░░░░░░░░░░░░░░░░   31.23 %
+JavaScript   11 hrs 25 mins  ████▓░░░░░░░░░░░░░░░░░░░░   18.92 %
+Other        4 hrs 21 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.21 %
 ```
 
 <!--END_SECTION:waka-->
