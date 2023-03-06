@@ -14,11 +14,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 26 February 2023 - To: 05 March 2023
+From: 27 February 2023 - To: 06 March 2023
 
-PHP                        16 hrs 6 mins   ██████████████▒░░░░░░░░░░   57.55 %
-Vue.js                     3 hrs 31 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.62 %
-Other                      2 hrs 52 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.30 %
+PHP                        16 hrs 25 mins  █████████████▒░░░░░░░░░░░   52.98 %
+Vue.js                     4 hrs 12 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.56 %
+Other                      3 hrs 18 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.68 %
 ```
 
 <!--END_SECTION:waka-->
