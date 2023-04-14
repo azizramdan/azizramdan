@@ -14,10 +14,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 06 April 2023 - To: 13 April 2023
+From: 07 April 2023 - To: 14 April 2023
 
-PHP          14 hrs 53 mins  ████████████████▓░░░░░░░░   66.11 %
-Other        3 hrs 51 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.12 %
+PHP              15 hrs 32 mins  ███████████████▒░░░░░░░░░   61.18 %
+Other            4 hrs 36 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.12 %
 ```
 
 <!--END_SECTION:waka-->
