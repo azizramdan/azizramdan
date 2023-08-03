@@ -14,13 +14,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 July 2023 - To: 02 August 2023
+From: 27 July 2023 - To: 03 August 2023
 
-Vue.js                     16 hrs 6 mins   █████████▓░░░░░░░░░░░░░░░   38.90 %
-PHP                        15 hrs 8 mins   █████████░░░░░░░░░░░░░░░░   36.58 %
-Other                      3 hrs 29 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 %
-Docker                     1 hr 41 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 %
-Blade Template             1 hr 1 min      ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.46 %
+PHP                        15 hrs 48 mins  █████████▓░░░░░░░░░░░░░░░   39.04 %
+Vue.js                     12 hrs 41 mins  ████████░░░░░░░░░░░░░░░░░   31.36 %
+Other                      4 hrs 5 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.09 %
+Docker                     2 hrs 32 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.28 %
+Bash                       1 hr 14 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.08 %
 ```
 
 <!--END_SECTION:waka-->
