@@ -14,13 +14,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 August 2023 - To: 20 August 2023
+From: 14 August 2023 - To: 21 August 2023
 
-PHP                        8 hrs 16 mins   ████████▒░░░░░░░░░░░░░░░░   33.06 %
-Markdown                   7 hrs 50 mins   ███████▓░░░░░░░░░░░░░░░░░   31.33 %
-Vue.js                     4 hrs 7 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.48 %
-Other                      2 hrs 29 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.97 %
-INI                        39 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.64 %
+PHP                        8 hrs 56 mins   ████████▓░░░░░░░░░░░░░░░░   35.18 %
+Markdown                   7 hrs 50 mins   ███████▓░░░░░░░░░░░░░░░░░   30.84 %
+Vue.js                     3 hrs 38 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.32 %
+Other                      2 hrs 38 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.40 %
+INI                        39 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 %
 ```
 
 <!--END_SECTION:waka-->
