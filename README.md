@@ -14,7 +14,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 September 2023 - To: 16 September 2023
+From: 10 September 2023 - To: 17 September 2023
 
 PHP                        12 hrs 41 mins  ███████████▒░░░░░░░░░░░░░   45.72 %
 Other                      3 hrs 36 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.01 %
