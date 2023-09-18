@@ -14,13 +14,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 September 2023 - To: 17 September 2023
+From: 11 September 2023 - To: 18 September 2023
 
-PHP                        12 hrs 41 mins  ███████████▒░░░░░░░░░░░░░   45.72 %
-Other                      3 hrs 36 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.01 %
-Vue.js                     2 hrs 53 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.42 %
-Docker                     2 hrs           █▓░░░░░░░░░░░░░░░░░░░░░░░   07.24 %
-ActionScript               1 hr 57 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.04 %
+PHP                        13 hrs 33 mins  ███████████░░░░░░░░░░░░░░   43.37 %
+Other                      3 hrs 39 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.71 %
+Vue.js                     2 hrs 51 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.12 %
+Kotlin                     2 hrs 6 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.77 %
+Docker                     2 hrs           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.43 %
 ```
 
 <!--END_SECTION:waka-->
