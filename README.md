@@ -14,13 +14,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 September 2023 - To: 24 September 2023
+From: 18 September 2023 - To: 25 September 2023
 
-Vue.js                     10 hrs 1 min    █████████░░░░░░░░░░░░░░░░   36.15 %
-PHP                        9 hrs 36 mins   ████████▓░░░░░░░░░░░░░░░░   34.70 %
-Kotlin                     3 hrs 31 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.72 %
-Other                      3 hrs 9 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.42 %
-XML                        58 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 %
+Vue.js                     10 hrs 5 mins   ██████████▒░░░░░░░░░░░░░░   41.71 %
+PHP                        9 hrs 9 mins    █████████▒░░░░░░░░░░░░░░░   37.85 %
+Other                      2 hrs 39 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.98 %
+Kotlin                     1 hr 30 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.25 %
+XML                        27 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 %
 ```
 
 <!--END_SECTION:waka-->
