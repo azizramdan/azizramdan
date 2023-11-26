@@ -7,9 +7,6 @@
 ⏳ **My stats**  
 ![](https://raw.githubusercontent.com/azizramdan/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 
-📈 **Languages I use the most**  
-![](https://raw.githubusercontent.com/azizramdan/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-
 📊 **My weekly development breakdown**
 <!--START_SECTION:waka-->
 
@@ -26,7 +23,3 @@ Bash                       1 hr 4 mins     █░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 👉 [See more at my profile](https://wakatime.com/@azizramdan)
 ***
-🔝 **Let's jump!**  
-![dino](https://raw.githubusercontent.com/azizramdan/azizramdan/master/dino.gif)  
-
-![](https://hit.yhype.me/github/profile?user_id=27954794)
