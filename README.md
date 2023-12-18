@@ -11,13 +11,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 December 2023 - To: 17 December 2023
+From: 11 December 2023 - To: 18 December 2023
 
-PHP                        14 hrs 22 mins  ██████████▓░░░░░░░░░░░░░░   42.34 %
-Other                      8 hrs 42 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.65 %
-Vue.js                     4 hrs 59 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.72 %
-JavaScript                 1 hr 37 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.78 %
-Nginx configuration file   1 hr 3 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.13 %
+PHP                        11 hrs 49 mins  █████████▓░░░░░░░░░░░░░░░   38.56 %
+Other                      9 hrs 15 mins   ███████▓░░░░░░░░░░░░░░░░░   30.21 %
+Vue.js                     3 hrs 22 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.01 %
+JavaScript                 1 hr 47 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.83 %
+Nginx configuration file   1 hr 3 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 %
 ```
 
 <!--END_SECTION:waka-->
