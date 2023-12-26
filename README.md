@@ -11,13 +11,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 December 2023 - To: 25 December 2023
+From: 19 December 2023 - To: 26 December 2023
 
-Other                      6 hrs 48 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.55 %
-PHP                        5 hrs 58 mins   █████░░░░░░░░░░░░░░░░░░░░   19.79 %
-Vue.js                     4 hrs 52 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.13 %
-YAML                       2 hrs 24 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 %
-SCSS                       2 hrs 9 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.14 %
+Other                      7 hrs 27 mins   ███████▓░░░░░░░░░░░░░░░░░   30.26 %
+Vue.js                     4 hrs 52 mins   █████░░░░░░░░░░░░░░░░░░░░   19.77 %
+PHP                        3 hrs 15 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.24 %
+SCSS                       2 hrs 9 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.76 %
+YAML                       2 hrs 5 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 %
 ```
 
 <!--END_SECTION:waka-->
