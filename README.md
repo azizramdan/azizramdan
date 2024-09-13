@@ -11,13 +11,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 September 2024 - To: 12 September 2024
+From: 06 September 2024 - To: 13 September 2024
 
-PHP                        5 hrs 23 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.37 %
-Other                      4 hrs 36 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.53 %
-Vue.js                     2 hrs 38 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.96 %
-YAML                       1 hr 35 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 %
-JavaScript                 1 hr 31 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 %
+PHP                        9 hrs 29 mins   ███████████░░░░░░░░░░░░░░   44.12 %
+Other                      4 hrs 16 mins   █████░░░░░░░░░░░░░░░░░░░░   19.89 %
+Vue.js                     1 hr 49 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 %
+Bash                       1 hr 26 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.67 %
+Docker                     1 hr 12 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.64 %
 ```
 
 <!--END_SECTION:waka-->
