@@ -11,13 +11,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 November 2024 - To: 15 November 2024
+From: 09 November 2024 - To: 16 November 2024
 
-PHP                        12 hrs 41 mins  █████████░░░░░░░░░░░░░░░░   36.26 %
-Vue.js                     4 hrs 15 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.19 %
-Other                      3 hrs 49 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.91 %
-TypeScript                 2 hrs 58 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 %
-Blade Template             2 hrs 46 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 %
+PHP                        12 hrs 41 mins  █████████▒░░░░░░░░░░░░░░░   37.61 %
+Vue.js                     4 hrs 15 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.64 %
+Other                      3 hrs 29 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.36 %
+TypeScript                 2 hrs 58 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.81 %
+Blade Template             2 hrs 46 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 %
 ```
 
 <!--END_SECTION:waka-->
