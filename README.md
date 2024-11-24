@@ -11,7 +11,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 November 2024 - To: 23 November 2024
+From: 17 November 2024 - To: 24 November 2024
 
 Vue.js       8 hrs 19 mins   ████████▒░░░░░░░░░░░░░░░░   33.67 %
 JavaScript   6 hrs 24 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.91 %
