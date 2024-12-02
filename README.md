@@ -11,13 +11,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 November 2024 - To: 01 December 2024
+From: 25 November 2024 - To: 02 December 2024
 
-Other                      6 hrs 5 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.69 %
-PHP                        5 hrs 43 mins   ██████░░░░░░░░░░░░░░░░░░░   24.13 %
-Vue.js                     1 hr 57 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 %
-Bash                       1 hr 52 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 %
-Nginx configuration file   1 hr 34 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.67 %
+PHP                        10 hrs 11 mins  ████████▒░░░░░░░░░░░░░░░░   33.73 %
+Other                      5 hrs 36 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.55 %
+TypeScript                 3 hrs 50 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.73 %
+Vue.js                     2 hrs 38 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.73 %
+Docker                     1 hr 35 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.28 %
 ```
 
 <!--END_SECTION:waka-->
