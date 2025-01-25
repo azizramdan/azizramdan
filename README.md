@@ -11,7 +11,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 January 2025 - To: 24 January 2025
+From: 18 January 2025 - To: 25 January 2025
 
 Vue.js           16 hrs 59 mins  ███████████▓░░░░░░░░░░░░░   46.57 %
 PHP              7 hrs 33 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.70 %
