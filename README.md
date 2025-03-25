@@ -11,13 +11,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 March 2025 - To: 24 March 2025
+From: 18 March 2025 - To: 25 March 2025
 
-Go                6 hrs 28 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.23 %
-PHP               5 hrs 39 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.08 %
-TypeScript        5 hrs 11 mins   █████░░░░░░░░░░░░░░░░░░░░   20.24 %
-Other             2 hrs 5 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 %
-Kotlin            1 hr 35 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.20 %
+Go                7 hrs 57 mins   ███████░░░░░░░░░░░░░░░░░░   28.56 %
+Other             5 hrs 4 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.19 %
+TypeScript        5 hrs 2 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.08 %
+PHP               4 hrs 26 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.90 %
+Kotlin            1 hr 24 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.06 %
 ```
 
 <!--END_SECTION:waka-->
