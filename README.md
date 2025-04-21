@@ -11,13 +11,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 April 2025 - To: 20 April 2025
+From: 14 April 2025 - To: 21 April 2025
 
-PHP                        8 hrs           █████████████░░░░░░░░░░░░   51.59 %
-Vue.js                     3 hrs 14 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.91 %
-Other                      1 hr 57 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.65 %
-Docker                     26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.85 %
-Blade Template             25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 %
+PHP                        6 hrs 31 mins   ██████████▓░░░░░░░░░░░░░░   42.50 %
+Vue.js                     2 hrs 28 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.14 %
+Other                      2 hrs 9 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.09 %
+TypeScript                 1 hr 1 min      █▓░░░░░░░░░░░░░░░░░░░░░░░   06.70 %
+Python                     37 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 %
 ```
 
 <!--END_SECTION:waka-->
