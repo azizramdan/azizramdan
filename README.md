@@ -11,13 +11,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 May 2025 - To: 11 May 2025
+From: 05 May 2025 - To: 12 May 2025
 
-Other                      3 hrs 33 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.09 %
-JavaScript                 2 hrs 47 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.55 %
-Vue.js                     2 hrs 31 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.99 %
-YAML                       1 hr 43 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.27 %
-TypeScript                 1 hr 13 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.29 %
+Vue.js                     5 hrs 26 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.82 %
+PHP                        4 hrs 59 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.94 %
+Other                      3 hrs 51 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.21 %
+JavaScript                 2 hrs 39 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.18 %
+YAML                       1 hr 35 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.70 %
 ```
 
 <!--END_SECTION:waka-->
