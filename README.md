@@ -11,13 +11,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 June 2025 - To: 05 July 2025
+From: 29 June 2025 - To: 06 July 2025
 
-Vue.js           10 hrs 33 mins  ███████▓░░░░░░░░░░░░░░░░░   30.67 %
-PHP              8 hrs 34 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.90 %
-Other            7 hrs 55 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.01 %
-Bash             2 hrs 6 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.12 %
-TypeScript       1 hr 39 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.82 %
+PHP              10 hrs 11 mins  ███████▒░░░░░░░░░░░░░░░░░   29.12 %
+Vue.js           8 hrs 26 mins   ██████░░░░░░░░░░░░░░░░░░░   24.11 %
+Other            7 hrs 32 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.57 %
+Bash             2 hrs 9 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.16 %
+TypeScript       1 hr 39 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.74 %
 ```
 
 <!--END_SECTION:waka-->
