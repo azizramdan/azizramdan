@@ -11,13 +11,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 August 2025 - To: 18 August 2025
+From: 12 August 2025 - To: 19 August 2025
 
-PHP             14 hrs 1 min    █████████▓░░░░░░░░░░░░░░░   38.43 %
-Vue.js          7 hrs 30 mins   █████░░░░░░░░░░░░░░░░░░░░   20.58 %
-TypeScript      6 hrs 21 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.42 %
-Other           3 hrs 11 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.72 %
-JSON            1 hr 17 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 %
+PHP             11 hrs 8 mins   ████████▓░░░░░░░░░░░░░░░░   34.82 %
+Vue.js          7 hrs 44 mins   ██████░░░░░░░░░░░░░░░░░░░   24.19 %
+TypeScript      7 hrs 7 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.24 %
+Other           2 hrs           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.30 %
+Markdown        57 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 %
 ```
 
 <!--END_SECTION:waka-->
