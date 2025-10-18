@@ -11,7 +11,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 October 2025 - To: 17 October 2025
+From: 11 October 2025 - To: 18 October 2025
 
 PHP              8 hrs 30 mins   ███████▓░░░░░░░░░░░░░░░░░   30.86 %
 Other            5 hrs 14 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.01 %
