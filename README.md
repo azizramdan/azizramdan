@@ -11,13 +11,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 November 2025 - To: 04 December 2025
+From: 28 November 2025 - To: 05 December 2025
 
-PHP                        21 hrs 34 mins  ██████████████░░░░░░░░░░░   56.01 %
-Other                      7 hrs 54 mins   █████░░░░░░░░░░░░░░░░░░░░   20.54 %
-Vue.js                     2 hrs 34 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.70 %
-YAML                       1 hr 20 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 %
-Blade Template             1 hr 18 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 %
+PHP                        17 hrs 26 mins  █████████████▓░░░░░░░░░░░   54.59 %
+Other                      6 hrs 23 mins   █████░░░░░░░░░░░░░░░░░░░░   19.99 %
+Vue.js                     2 hrs 24 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 %
+Blade Template             1 hr 8 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 %
+YAML                       1 hr 5 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 %
 ```
 
 <!--END_SECTION:waka-->
