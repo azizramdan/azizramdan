@@ -11,13 +11,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 December 2025 - To: 23 December 2025
+From: 17 December 2025 - To: 24 December 2025
 
-PHP                  8 hrs 38 mins   █████████░░░░░░░░░░░░░░░░   36.60 %
-Vue.js               4 hrs 4 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.24 %
-Other                4 hrs 3 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.22 %
-Docker               2 hrs 2 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 %
-TypeScript           1 hr 6 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   04.68 %
+PHP                  11 hrs 46 mins  ██████████░░░░░░░░░░░░░░░   39.48 %
+Vue.js               5 hrs 12 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.46 %
+Other                5 hrs 11 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.41 %
+Docker               2 hrs 2 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.83 %
+TypeScript           1 hr 35 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.31 %
 ```
 
 <!--END_SECTION:waka-->
