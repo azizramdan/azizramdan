@@ -11,13 +11,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 December 2025 - To: 05 January 2026
+From: 30 December 2025 - To: 06 January 2026
 
-Vue.js           4 hrs 52 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.16 %
-PHP              4 hrs 10 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.42 %
-Rust             3 hrs 41 mins   █████░░░░░░░░░░░░░░░░░░░░   19.85 %
-Other            1 hr 48 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.71 %
-JavaScript       1 hr 34 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 %
+PHP                        4 hrs 33 mins   ██████░░░░░░░░░░░░░░░░░░░   23.64 %
+Vue.js                     3 hrs 47 mins   █████░░░░░░░░░░░░░░░░░░░░   19.65 %
+JavaScript                 2 hrs 11 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.36 %
+Rust                       1 hr 51 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.63 %
+Other                      1 hr 7 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.81 %
 ```
 
 <!--END_SECTION:waka-->
