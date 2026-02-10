@@ -11,13 +11,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 February 2026 - To: 09 February 2026
+From: 03 February 2026 - To: 10 February 2026
 
-Vue.js       10 hrs 48 mins  ████████████████░░░░░░░░░   63.84 %
-PHP          2 hrs 13 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.15 %
-Other        1 hr 24 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 %
-TypeScript   1 hr 11 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.00 %
-JavaScript   49 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.92 %
+Vue.js       7 hrs 42 mins   ██████████████▒░░░░░░░░░░   57.82 %
+PHP          2 hrs 4 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.55 %
+TypeScript   1 hr 22 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.29 %
+JavaScript   49 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.24 %
+Other        46 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.76 %
 ```
 
 <!--END_SECTION:waka-->
