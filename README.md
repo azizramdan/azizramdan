@@ -11,13 +11,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 April 2026 - To: 16 April 2026
+From: 11 April 2026 - To: 18 April 2026
 
-PHP              11 hrs 36 mins        ███████████▓░░░░░░░░░░░░░   46.21 %
-Vue              4 hrs 32 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.11 %
-TypeScript       3 hrs 9 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.56 %
-TSConfig         1 hr 5 mins           █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 %
-JSON             52 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 %
+PHP              14 hrs 7 mins         █████████████▒░░░░░░░░░░░   53.85 %
+Vue              6 hrs 28 mins         ██████░░░░░░░░░░░░░░░░░░░   24.65 %
+TypeScript       1 hr 24 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.39 %
+TSConfig         43 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 %
+JSON             39 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 %
 ```
 
 <!--END_SECTION:waka-->
