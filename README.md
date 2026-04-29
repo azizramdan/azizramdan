@@ -11,13 +11,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 April 2026 - To: 28 April 2026
+From: 22 April 2026 - To: 29 April 2026
 
-TypeScript                 8 hrs 5 mins          █████████░░░░░░░░░░░░░░░░   35.72 %
-Vue                        3 hrs 1 min           ███▒░░░░░░░░░░░░░░░░░░░░░   13.36 %
-Other                      2 hrs 22 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.51 %
-YAML                       1 hr 48 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 %
-TSConfig                   1 hr 44 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 %
+TypeScript                 5 hrs 37 mins         ████████▒░░░░░░░░░░░░░░░░   33.24 %
+Vue                        2 hrs 50 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.79 %
+Other                      1 hr 58 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.61 %
+Bash                       1 hr 21 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 %
+YAML                       1 hr 20 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 %
 ```
 
 <!--END_SECTION:waka-->
