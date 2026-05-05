@@ -11,13 +11,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 April 2026 - To: 04 May 2026
+From: 28 April 2026 - To: 05 May 2026
 
-Vue                        1 hr 47 mins          ██████████░░░░░░░░░░░░░░░   39.34 %
-TypeScript                 1 hr 8 mins           ██████▒░░░░░░░░░░░░░░░░░░   25.02 %
-Other                      42 mins               ████░░░░░░░░░░░░░░░░░░░░░   15.60 %
-Bash                       32 mins               ███░░░░░░░░░░░░░░░░░░░░░░   12.07 %
-Nginx configuration file   11 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 %
+Vue          4 hrs 19 mins         ████████░░░░░░░░░░░░░░░░░   32.14 %
+PHP          3 hrs 9 mins          ██████░░░░░░░░░░░░░░░░░░░   23.50 %
+Other        1 hr 30 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.25 %
+TypeScript   1 hr 30 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.22 %
+Markdown     1 hr 3 mins           ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 %
 ```
 
 <!--END_SECTION:waka-->
