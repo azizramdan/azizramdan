@@ -11,13 +11,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 July 2026 - To: 25 July 2026
+From: 19 July 2026 - To: 26 July 2026
 
-PHP                        6 hrs 45 mins         ██████░░░░░░░░░░░░░░░░░░░   23.91 %
-Kotlin                     5 hrs 2 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.86 %
-Markdown                   4 hrs 20 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.40 %
-Vue                        3 hrs 32 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.54 %
-TypeScript                 2 hrs 10 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 %
+PHP                        6 hrs 45 mins         ████████▒░░░░░░░░░░░░░░░░   33.25 %
+Vue                        2 hrs 27 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.15 %
+TypeScript                 1 hr 55 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.51 %
+Markdown                   1 hr 50 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.03 %
+Bash                       1 hr 37 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 %
 ```
 
 <!--END_SECTION:waka-->
