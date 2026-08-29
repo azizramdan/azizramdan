@@ -11,13 +11,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 August 2026 - To: 27 August 2026
+From: 21 August 2026 - To: 28 August 2026
 
-Python           6 hrs 18 mins         ███████░░░░░░░░░░░░░░░░░░   28.56 %
-Markdown         5 hrs 30 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.94 %
-Bash             2 hrs 10 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.84 %
-YAML             1 hr 56 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.76 %
-TypeScript       1 hr 35 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.20 %
+Markdown         4 hrs 18 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.92 %
+Bash             2 hrs 44 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.58 %
+PHP              2 hrs 40 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.24 %
+TypeScript       2 hrs 9 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.50 %
+YAML             1 hr 58 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.46 %
 ```
 
 <!--END_SECTION:waka-->
