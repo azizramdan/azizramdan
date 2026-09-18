@@ -11,13 +11,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 September 2026 - To: 17 September 2026
+From: 11 September 2026 - To: 18 September 2026
 
-Java              8 hrs 11 mins         ██████░░░░░░░░░░░░░░░░░░░   23.65 %
-Markdown          6 hrs 50 mins         █████░░░░░░░░░░░░░░░░░░░░   19.79 %
-PHP               5 hrs 38 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.28 %
-TypeScript        3 hrs 29 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.11 %
-Vue               1 hr 31 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 %
+Java              7 hrs 33 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.69 %
+PHP               7 hrs 17 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.87 %
+Markdown          6 hrs 13 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.70 %
+TypeScript        2 hrs 11 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.58 %
+Bash              1 hr 31 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 %
 ```
 
 <!--END_SECTION:waka-->
